@@ -2,9 +2,9 @@
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Flex&weight=600&size=30&pause=1000&color=F7F7F7&center=false&vCenter=true&width=1000&lines=Progress+for+Humanity.;AI+Researcher+bridging+Technology+and+Value.;Mobility+%26+AI%2FSW+Technology+Enthusiast.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Flex&weight=600&size=30&pause=1000&color=000000&center=false&vCenter=true&width=1000&lines=Progress+for+Humanity.;AI+Researcher+bridging+Technology+and+Value.;Mobility+%26+AI%2FSW+Technology+Enthusiast.">
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Flex&weight=600&size=30&pause=1000&color=000000&center=false&vCenter=true&width=1000&lines=Progress+for+Humanity.;AI+Researcher+bridging+Technology+and+Value.;Mobility+%26+AI%2FSW+Technology+Enthusiast.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Flex&weight=600&size=30&pause=1000&color=F7F7F7&center=false&vCenter=true&width=650&lines=Progress+for+Humanity.;AI+Researcher+bridging+Technology+and+Value.;Mobility+%26+AI%2FSW+Technology+Enthusiast.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Flex&weight=600&size=30&pause=1000&color=000000&center=false&vCenter=true&width=650&lines=Progress+for+Humanity.;AI+Researcher+bridging+Technology+and+Value.;Mobility+%26+AI%2FSW+Technology+Enthusiast.">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Flex&weight=600&size=30&pause=1000&color=000000&center=false&vCenter=true&width=650&lines=Progress+for+Humanity.;AI+Researcher+bridging+Technology+and+Value.;Mobility+%26+AI%2FSW+Technology+Enthusiast.">
   </picture>
 </a>
 
